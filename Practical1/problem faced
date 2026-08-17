@@ -1,0 +1,13 @@
+problem-1
+i) we have to move the items to right side to the left side so this is very confusing which operation should we use.
+ii) and second thing is h which was given in problem that h is very large number exactly we don’t’ know how much large.
+iii) the concept of roatation
+
+peoblem-2
+First difficulty for this problem statement is I understand small number of data but there were a large number of data almost 100,000 so I have to design a code according to this
+And second thing is if a one book carried by 4 students then it borrowed count considered as only 1 
+
+problem-3
+First difficulty is to know the problem wether we have to find longest word or sentence.
+ Sometimes two or more words can have the same maximum length. It is necessary to decide which one should be printed.
+
