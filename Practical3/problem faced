@@ -1,0 +1,9 @@
+problem-1
+Understanding the difference between Bubble Sort, Selection Sort, and Insertion Sort. 
+Understanding how the loops work in each sorting method. Finding the correct position of an element in Insertion Sort
+
+problem-2
+Understanding how to arrange 0, 1, and 2 without using another array. Understanding the meaning of in-place sorting.
+Understanding the use of the three pointers: low, mid, and high. 
+Knowing when to swap elements.
+Understanding why mid should not be increased immediately when the current element is 2. 
